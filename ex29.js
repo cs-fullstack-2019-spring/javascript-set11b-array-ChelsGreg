@@ -15,3 +15,10 @@ console.log(numbers[4]);
 //or
 
 console.log(numbers);
+
+//or
+
+for (var i = 0; i<numbers.length; i++)
+{
+    console.log(numbers[i]);
+}

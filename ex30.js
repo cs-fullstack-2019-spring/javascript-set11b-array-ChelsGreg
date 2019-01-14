@@ -10,6 +10,6 @@ var names = ['Chelsea', 'Elaine', 'Gregory', 'Jane'];
 
 console.log(names[2]);
 
-console.log(names.splice(1,1));
+names.splice(1,1);
 
 console.log(names[2]);
