@@ -11,3 +11,7 @@ console.log(numbers[1]);
 console.log(numbers[2]);
 console.log(numbers[3]);
 console.log(numbers[4]);
+
+//or
+
+console.log(numbers);
